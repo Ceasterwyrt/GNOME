@@ -1,6 +1,8 @@
 # Wyrtbox-GNOME
 My personal configuration for GNOME.
 
+Place the 'Windows' folder inside ~/.themes and load it through Tweaks.
+
 Gnome Shell Extensions List:
 - ArcMenu
 - Blur my Shell
