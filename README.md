@@ -10,7 +10,7 @@ Gnome Shell Extensions List:
 - [Desktop Icons](https://extensions.gnome.org/extension/4337/desktop-icons-neo/)
 - [Quick Settings Tweaker](https://extensions.gnome.org/extension/5446/quick-settings-tweaker/)
 - [Rounded Window Corners](https://extensions.gnome.org/extension/5237/rounded-window-corners/)
-- User Themes
+- [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
 
 Cursor and Icon Theme:
 - [Windows 10 Cursor](https://github.com/yeyushengfan258/We10XOS-cursors)
