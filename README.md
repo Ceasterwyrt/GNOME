@@ -19,4 +19,5 @@ Cursor and Icon Theme:
 Place the 'Windows' folder inside ~/.themes and load it through Tweaks.
   
 [Segoe UI Font](https://drive.google.com/file/d/1WysnQNGr37ml1elWO_1YqxArjKgwUYbx/view)
+
 Make sure to set Font AA to RGB and Hinting to full.
