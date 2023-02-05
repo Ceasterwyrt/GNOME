@@ -12,7 +12,7 @@ Gnome Shell Extensions List:
 - [Rounded Window Corners](https://extensions.gnome.org/extension/5237/rounded-window-corners/)
 - User Themes
 
-Cursor and Icons Theme:
+Cursor and Icon Theme:
 - [Windows 10 Cursor](https://github.com/yeyushengfan258/We10XOS-cursors)
 - [Windows 11 Icons](https://github.com/yeyushengfan258/Win11-icon-theme)
 
