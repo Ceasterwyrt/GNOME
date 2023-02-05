@@ -9,4 +9,4 @@ Gnome Shell Extensions List:
   - kk:mm\ndd/MM/y
 - Rounded Window Corners
   
-  Segoe UI Font - https://drive.google.com/file/d/1WysnQNGr37ml1elWO_1YqxArjKgwUYbx/view
+Segoe UI Font - https://drive.google.com/file/d/1WysnQNGr37ml1elWO_1YqxArjKgwUYbx/view
