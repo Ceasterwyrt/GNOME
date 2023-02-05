@@ -12,6 +12,10 @@ Gnome Shell Extensions List:
 - [Rounded Window Corners](https://extensions.gnome.org/extension/5237/rounded-window-corners/)
 - User Themes
 
+Cursor and Icons Theme:
+- [Windows 10 Cursor](https://github.com/yeyushengfan258/We10XOS-cursors)
+- [Windows 11 Icons](https://github.com/yeyushengfan258/Win11-icon-theme)
+
 Place the 'Windows' folder inside ~/.themes and load it through Tweaks.
   
 [Segoe UI Font](https://drive.google.com/file/d/1WysnQNGr37ml1elWO_1YqxArjKgwUYbx/view)
