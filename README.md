@@ -1,4 +1,4 @@
-# Wyrtbox-GNOME
+# GNOME
 My personal configuration for GNOME.
 
 Gnome Shell Extensions List:
