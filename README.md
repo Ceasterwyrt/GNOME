@@ -1,4 +1,4 @@
-# Windows 11 appearance for GNOME
+# Windows 10/11 appearance for GNOME
 My personal configuration for GNOME.
 
 Gnome Shell Extensions List:
