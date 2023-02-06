@@ -1,6 +1,8 @@
 # Windows 10/11 appearance for GNOME
 My personal configuration for GNOME.
 
+![Preview](Preview.png)
+
 Gnome Shell Extensions List:
 - [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/)
 - [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
