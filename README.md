@@ -1,6 +1,8 @@
 # Windows 10/11 appearance for GNOME
 My personal configuration for GNOME.
 
+Install [adw-gtk3](https://github.com/lassekongo83/adw-gtk3) 'Legacy Applications' theme.
+
 Gnome Shell Extensions List:
 - [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/)
 - [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
@@ -22,7 +24,7 @@ Place the 'Windows' folder inside ~/.themes and load it through Tweaks.
 
 Make sure to set Font Antialiasing to Subpixel and Hinting to full.
 
-Previews:
+# Previews:
 ![preview_dark](preview_dark.png)
 ![preview_dark_apps](preview_dark_apps.png)
 ![preview_light](preview_light.png)
