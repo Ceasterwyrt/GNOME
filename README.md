@@ -1,4 +1,4 @@
-# Windows 11 appearance for GNOME
+# Windows 10/11 appearance for GNOME
 My personal configuration for GNOME.
 
 Install [adw-gtk3](https://github.com/lassekongo83/adw-gtk3) 'Legacy Applications' theme.
