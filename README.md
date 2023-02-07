@@ -1,8 +1,6 @@
 # Windows 10/11 appearance for GNOME
 My personal configuration for GNOME.
 
-![Preview](Preview.png)
-
 Gnome Shell Extensions List:
 - [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/)
 - [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
@@ -23,3 +21,10 @@ Place the 'Windows' folder inside ~/.themes and load it through Tweaks.
 [Segoe UI Font](https://drive.google.com/file/d/1WysnQNGr37ml1elWO_1YqxArjKgwUYbx/view)
 
 Make sure to set Font Antialiasing to Subpixel and Hinting to full.
+
+Previews:
+![preview_dark](preview_dark.png)
+![preview_dark_apps](preview_dark_apps.png)
+![preview_light](preview_light.png)
+![preview_light_apps](preview_light_apps.png)
+
