@@ -10,21 +10,26 @@ Gnome Shell Extensions List:
 - [Date Menu Formatter](https://extensions.gnome.org/extension/4655/date-menu-formatter/)
   - kk:mm\ndd/MM/y
 - [Desktop Icons](https://extensions.gnome.org/extension/4337/desktop-icons-neo/)
-- [Extension List](https://extensions.gnome.org/extension/3088/extension-list/) _Optional._
-- [Quick Settings Tweaker](https://extensions.gnome.org/extension/5446/quick-settings-tweaker/) _Change the settings to your liking._
+- [Extension List](https://extensions.gnome.org/extension/3088/extension-list/) - _Optional._
+- [Quick Settings Tweaker](https://extensions.gnome.org/extension/5446/quick-settings-tweaker/) - _Change the settings to your liking._
 - [Rounded Window Corners](https://extensions.gnome.org/extension/5237/rounded-window-corners/)
-- [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
+- [User Themes](https://extensions.gnome.org/extension/19/user-themes/) - _Usually comes pre-installed with GNOME._
 
 Cursor and Icon Theme:
 - [Windows 10 Cursor](https://github.com/yeyushengfan258/We10XOS-cursors)
 - [Windows 11 Icons](https://github.com/yeyushengfan258/Win11-icon-theme)
 
-Place the 'Windows' folder inside ~/.themes and load it through Tweaks.
+# Setup:
+
+- Place the 'Windows_(Dark/Light)' folder inside ~/.themes and load it through Tweaks.
+
+- Open Dash to Panel settings and import the equivalent settings (dark/light).
+
+- Import ArcMenu settings.
+
+- Make sure to set Font Antialiasing to Subpixel and Hinting to full.
+  - [Segoe UI Font](https://drive.google.com/file/d/1WysnQNGr37ml1elWO_1YqxArjKgwUYbx/view)
   
-[Segoe UI Font](https://drive.google.com/file/d/1WysnQNGr37ml1elWO_1YqxArjKgwUYbx/view)
-
-Make sure to set Font Antialiasing to Subpixel and Hinting to full.
-
 # Previews:
 ![preview_dark](preview_dark.png)
 ![preview_dark_apps](preview_dark_apps.png)
