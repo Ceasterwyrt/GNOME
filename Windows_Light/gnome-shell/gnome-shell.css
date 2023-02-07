@@ -1,0 +1,80 @@
+/* Global Values */
+stage {
+  font-size: 9pt;
+  color: rgba(0, 0, 0, 0.8); }
+  
+#LookingGlassDialog > #Toolbar .lg-toolbar-button, .app-folder-dialog .folder-name-container .edit-folder-button, .button, .icon-button {
+  font-weight: normal;}
+
+.modal-dialog .modal-dialog-linked-button, .hotplug-notification-item, .notification-banner .notification-button {
+  font-weight: normal !important;}
+  
+.calendar .calendar-day-base.calendar-day-heading {
+  font-weight: normal; }
+      
+.calendar .calendar-week-number {
+  font-size: 9pt;
+  font-weight: normal;}
+    
+.message .message-title {
+  font-weight: normal;}
+    
+.summary-source-counter {
+  font-size: 9pt;
+  font-weight: normal;}
+  
+.chat-meta-message {
+  font-size: 9pt;
+  font-weight: normal;}
+  
+.dialog-list .dialog-list-box .dialog-list-item .dialog-list-item-title {
+  font-weight: normal; }
+        
+.osd-window {
+  font-weight: normal;}
+      
+.osd-monitor-label {
+  font-weight: normal;}
+  
+#panel {
+  background-color: #FFFFFF;
+  font-weight: normal;
+  height: 2.2em;
+  transition-duration: 250ms; }
+  #panel.unlock-screen, #panel.login-screen, #panel:overview {
+    background-color: transparent; }
+  #panel .panel-button {
+    font-weight: normal;
+    color: black;
+    -natural-hpadding: 12px;
+    -minimum-hpadding: 6px;
+    transition-duration: 150ms;
+    border: 3px solid transparent;
+    border-radius: 99px; }
+    #panel .panel-button.clock-display .clock {
+      transition-duration: 150ms;
+      border: 3px solid transparent;
+      border-radius: 99px; }
+    
+.quick-toggle .quick-toggle-label {
+  font-weight: normal; }
+    
+.keyboard-key {
+  font-size: 16pt;
+  font-weight: normal;}
+  
+#LookingGlassDialog .notebook-tab {
+  font-weight: normal;}
+    
+.login-dialog-not-listed-label {
+  font-weight: normal;}
+  
+.login-dialog-auth-list-label {
+  font-weight: normal;}
+  
+.user-widget.horizontal .user-widget-label {
+  font-size: 9pt;
+  font-weight: normal;}
+  
+.unlock-dialog-notification-count-text {
+  font-weight: normal;}
