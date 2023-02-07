@@ -27,7 +27,8 @@ Cursor and Icon Theme:
 
 - Import ArcMenu settings.
 
-- Make sure to set Font Antialiasing to Subpixel and Hinting to full.
+- Set 'Interface Text' and 'Legacy Window Titles' font to _Segoe UI Regular_ and size to 9.
+  - Make sure to set Font Antialiasing to Subpixel and Hinting to full.
   - [Segoe UI Font](https://drive.google.com/file/d/1WysnQNGr37ml1elWO_1YqxArjKgwUYbx/view)
   
 # Previews:
