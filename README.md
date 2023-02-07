@@ -9,8 +9,9 @@ Gnome Shell Extensions List:
 - [Dash to Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/)
 - [Date Menu Formatter](https://extensions.gnome.org/extension/4655/date-menu-formatter/)
   - kk:mm\ndd/MM/y
-- [Desktop Icons](https://extensions.gnome.org/extension/4337/desktop-icons-neo/)
-- [Quick Settings Tweaker](https://extensions.gnome.org/extension/5446/quick-settings-tweaker/)
+- [Desktop Icons](https://extensions.gnome.org/extension/4337/desktop-icons-neo/) _Optional._
+- [Extension List](https://extensions.gnome.org/extension/3088/extension-list/)
+- [Quick Settings Tweaker](https://extensions.gnome.org/extension/5446/quick-settings-tweaker/) _Change the settings to your liking._
 - [Rounded Window Corners](https://extensions.gnome.org/extension/5237/rounded-window-corners/)
 - [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
 
